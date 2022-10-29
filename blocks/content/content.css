@@ -16,6 +16,6 @@
   .content {
     display: grid;
     grid-template-rows: repeat(8, auto);
-    row-gap: 86px;
+    row-gap: 64px;
   }
 }
