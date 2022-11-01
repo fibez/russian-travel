@@ -1,0 +1,31 @@
+.places__description {
+  font-family: "Inter";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+@media screen and (max-width: 896px) {
+  .places__description {
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 688px) {
+  .places__description {
+    margin-left: 16px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+}
