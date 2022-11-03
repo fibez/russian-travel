@@ -1,20 +1,21 @@
-.lead__title {
+.cover__title {
   margin: 0 0 16px;
   padding: 0;
-  max-width: 720px;
+  max-width: 560px;
   font-family: "Inter";
-  font-size: 96px;
+  font-size: 72px;
   font-weight: 900;
-  line-height: 100px;
+  line-height: 76px;
   letter-spacing: 0em;
   text-align: center;
+  z-index: 2;
 }
 
 @media screen and (max-width: 688px) {
-  .lead__title {
+  .cover__title {
     margin-bottom: 8px;
     max-width: 288px;
-    font-size: 40px;
-    line-height: 44px;
+    font-size: 32px;
+    line-height: 35px;
   }
 }

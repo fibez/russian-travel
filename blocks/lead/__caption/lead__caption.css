@@ -12,28 +12,12 @@
 
 @media screen and (max-width: 896px) {
   .lead__caption {
-    align-self: flex-start;
-    margin: 16px 0 0 24px;
-    text-transform: uppercase;
-    font-family: "Inter";
-    font-size: 10px;
-    font-weight: 400;
-    line-height: 14px;
-    letter-spacing: 1.5px;
-    text-align: left;
+    margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 688px) {
   .lead__caption {
-    align-self: flex-start;
-    margin: 16px 0 0 16px;
-    text-transform: uppercase;
-    font-family: "Inter";
-    font-size: 10px;
-    font-weight: 400;
-    line-height: 14px;
-    letter-spacing: 1.5px;
-    text-align: left;
+    margin-left: 16px;
   }
 }

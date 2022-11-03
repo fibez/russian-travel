@@ -4,12 +4,14 @@
 
 @media screen and (max-width: 896px) {
   .content__photo-grid {
-    margin: 0 24px 0;
+    margin-left: 24px;
+    margin-right: 24px;
   }
 }
 
 @media screen and (max-width: 688px) {
   .content__photo-grid {
-    margin: 0 16px 0;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }

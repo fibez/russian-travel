@@ -4,18 +4,21 @@
 
 @media screen and (max-width: 1152px) {
   .page__header-wrapper {
-    margin: 28px 48px 48px;
+    margin-bottom: 48px;
   }
 }
 
 @media screen and (max-width: 896px) {
   .page__header-wrapper {
-    margin: 28px 24px 48px;
+    margin-left: 24px;
+    margin-right: 24px;
   }
 }
 
 @media screen and (max-width: 544px) {
   .page__header-wrapper {
-    margin: 16px 16px 48px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }

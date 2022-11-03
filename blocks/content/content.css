@@ -1,22 +1,18 @@
 .content {
   display: grid;
-  grid-template-rows: repeat(8, auto);
+  grid-template-rows: repeat(auto, max-content);
   row-gap: 92px;
   box-sizing: border-box;
 }
 
 @media screen and (max-width: 896px) {
   .content {
-    display: grid;
-    grid-template-rows: repeat(8, auto);
     row-gap: 86px;
   }
 }
 
 @media screen and (max-width: 688px) {
   .content {
-    display: grid;
-    grid-template-rows: repeat(8, auto);
     row-gap: 64px;
   }
 }
