@@ -22,7 +22,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-text/intro__list-text.css);
-@import url(../blocks/intro/__list-text/_thin/intro__list-text_thin.css);
+@import url(../blocks/thin-text/thin-text.css);
 
 @import url(../blocks/content/__photo-grid/content__photo-grid.css);
 @import url(../blocks/photo-grid/photo-grid.css);
